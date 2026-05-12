@@ -3,7 +3,6 @@
 <p align="center">
   <strong>5th semester B.Tech Computer Engineering student • Full-stack developer • AI-assisted productivity enthusiast</strong>
 </p>
----
 
 ## 🚀 Featured Projects  
 
