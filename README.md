@@ -41,8 +41,11 @@
 ## 📞 Connect  
 
 <p align="center">
-  <a href="https://github.com/Sia0305">
+  <a href="https://www.linkedin.com/in/siya-kansagara-b1a8a8308/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sia0305">
+    <img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
