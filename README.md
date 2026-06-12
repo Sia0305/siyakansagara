@@ -1,7 +1,7 @@
 # Hi, I'm **Siya Kansagara**
 
 <p align="center">
-  <strong>5th semester B.Tech Computer Engineering student • Full-stack developer • AI-assisted productivity enthusiast</strong>
+  <strong>5th semester B.Tech Computer Engineering student • Full-stack developer</strong>
 </p>
 
 ## 🚀 Featured Projects  
