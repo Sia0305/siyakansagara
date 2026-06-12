@@ -46,9 +46,6 @@
   <a href="https://github.com/sia0305">
     <img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="siyakansagara@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
