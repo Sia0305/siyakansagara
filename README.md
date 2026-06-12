@@ -22,7 +22,6 @@
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 <img src="https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/redis-DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
@@ -46,6 +45,9 @@
   </a>
   <a href="https://github.com/sia0305">
     <img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="siyakansagara@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
